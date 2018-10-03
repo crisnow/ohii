@@ -1,0 +1,22 @@
+body{
+  font-family: Helvetica ;
+}
+
+.ui.this.container{
+    color:black;
+    font-family:courier;
+    font-size:25px;
+    margin-left:150px;
+    margin-right:150px;
+}
+
+.sale.item{
+  color: red !important;
+}
+
+
+.footer-background{
+
+  font-family:Arial;
+  font-size:10px;
+}
